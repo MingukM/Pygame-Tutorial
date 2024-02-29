@@ -1,6 +1,7 @@
 # Pygame-Tutorial
 
-**Author: Minguk Moon**
+**Author: Minguk Moon**  
+
 **Date Modified: 2/29/2024**
 
 **Description**
