@@ -20,7 +20,7 @@
 - When the ball goes out of the screen and if you have more than 0 life point, the ball will respawn on random position of the screen with decreased speed if the speed was over 15.
 
 ### Winning Condition
-To win the game, you need to score 50 points!
+- To win the game, you need to score 50 points!
 
 ### Losing Condition
-If you lose all your life points, it’s game over.
+- If you lose all your life points, it’s game over.
